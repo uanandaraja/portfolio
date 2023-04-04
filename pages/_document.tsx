@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Unies Ananda Raja',
     description: 'Blog and portfolio of Unies Ananda Raja',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png',
+    image: '/images/comingofagi.png',
   }
 
   return (

@@ -1,6 +1,6 @@
 ---
 title: What to do and not to do with ChatGPT
-date: 2023/4/04
+date: 2023-04-04
 description: Here's What You Should and Shouldn't Do with ChatGPT
 tag: AI, ChatGPT
 author: Unies Ananda Raja

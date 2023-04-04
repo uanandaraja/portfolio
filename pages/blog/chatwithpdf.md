@@ -1,6 +1,6 @@
 ---
 title: How to use ChatGPT with your own PDF documents
-date: 2023/4/04
+date: 2023-04-04
 description: Analyze your PDF faster than reading the whole of it.
 tag: AI, ChatGPT, Langchain, Pinecone
 author: Unies Ananda Raja
